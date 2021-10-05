@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anne</h1>
-<h3 align="center">A developer web Full Stack from France !</h3>
+<h3 align="center">A developer web ROR from France !</h3>
 
 - 🔭 I’m currently working on [Kid's Out](https://www.kids-out.com/)
 
