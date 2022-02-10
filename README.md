@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anne</h1>
 <h3 align="center">A developer web ROR from France !</h3>
 
-- 🔭 I’m currently working on [Kid's Out](https://www.kids-out.com/)
+- 🔭 I’m currently studying at <a href="https://adatechschool.fr/ecole/" target="_blank"> Ada TechSchool </a> in Paris.
 
-- 🌱 I’m currently learning **Ruby on Rails, E6S, HTML/CSS, Sass**
+- 🌱 I’m currently learning **E6S, Python, Ruby on Rails, E6S, HTML/CSS, Sass**
 
 - 📫 How to reach me **anne.barois@outlook.fr**
 
