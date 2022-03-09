@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at <a href="https://adatechschool.fr/ecole/" target="_blank"> Ada TechSchool </a> in Paris.
 
-- 🌱 I’m currently learning **E6S, Python, Ruby on Rails, E6S, HTML/CSS, Sass**
+- 🌱 I’m currently learning **E6S, Ruby on Rails, HTML/CSS, Sass**
 
 - 📫 How to reach me **anne.barois@outlook.fr**
 
