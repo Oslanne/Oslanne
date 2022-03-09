@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anne</h1>
-<h3 align="center">A developer web ROR from France !</h3>
+<h3 align="center">A developer web student from France !</h3>
 
 - 🔭 I’m currently studying at <a href="https://adatechschool.fr/ecole/" target="_blank"> Ada TechSchool </a> in Paris.
 
