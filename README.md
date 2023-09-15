@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying at <a href="https://adatechschool.fr/ecole/" target="_blank"> Ada TechSchool </a> in Paris.
 
-- 🌱 I’m currently learning **E6S, Ruby on Rails, HTML/CSS, Sass**
+- 🌱 I’m currently learning **JS, PHP, HTML/CSS, Sass, SQL, React, Symfony**
 
-- 📫 How to reach me **anne.barois@outlook.fr**
+- 📫 How to reach me **anne.barois@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
